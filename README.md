@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos Vinicius 👋
 
-Desenvolvedor em transição para **Back-End**, focado em construir APIs, regras de negócio, integração entre sistemas e aplicações escaláveis.
+Desenvolvedor em transição para **Back-End**
 
 ![MarcosVSRS GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosVCRS&show_icons=true&theme=dracula)
 
